@@ -1,10 +1,7 @@
-
 void setup() {
   
 }
-
 void draw() {
-  
   // Go to the recipe to run the demonstration before starting this program
   
   /*
